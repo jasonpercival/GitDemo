@@ -2,11 +2,11 @@
 
 This is a sample repository / app for the Git course.
 
-## How To Work With Git
-
 ## GUIs
-
 -   This change made by VSCode
+-   This change made by Visual Studio 2022
+
+## How To Work With Git
 
 1. git checkout main
 2. git pull
