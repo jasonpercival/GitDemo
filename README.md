@@ -4,6 +4,10 @@ This is a sample repository / app for the Git course.
 
 ## How To Work With Git
 
+## GUIs
+
+-   This change made by VSCode
+
 1. git checkout main
 2. git pull
 3. git checkout -b bug-00-branch-name
