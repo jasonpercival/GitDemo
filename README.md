@@ -1,6 +1,6 @@
 # Git Demo Repo
 
-This is a sample respository for the git course.
+This is a sample repository / app for the Git course.
 
 ## How To Work With Git
 
