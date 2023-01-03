@@ -1,6 +1,6 @@
 # Git Demo Repo
 
-This is a sample repository / app for the Git course.
+This is a sample repository / app.
 
 ## GUIs
 -   This change made by VSCode
